@@ -1,0 +1,1 @@
+print(format(int(f"0b{input()}", 2), 'o'))
